@@ -1,37 +1,43 @@
 {
   "485": {
     "name": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN",
-    "all_materials": [
+    "Sankey_comment": "This IEDC dataset has two different Sankey configs linked to it - these Sankeys work for all materials in this dataset.",
+    "Sankey(s)_all_materials": [
       "China_Sand_Gravel_REN_Sankey_as_in_Paper.json",
       "China_Sand_Gravel_REN_materials_aggregated.json"
     ]
   },
   "494": {
     "name": "1_F_Economy_wide_MFA_Global_EU27_2005_HAAS",
-    "all_materials": [
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",
+    "Sankey(s)_all_materials": [
       "Economy_wide_MFA_2005_HAAS_Sankey_as_in_Paper.json"
     ]
   },
   "495": {
     "name": "1_F_Economy_wide_MFA_EU28_2014_MAYER",
-    "all_materials": [
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "Sankey(s)_all_materials": [
       "Economy_wide_MFA_2014_MAYER_Sankey_as_in_Paper.json"
     ]
   },
   "496": {
     "name": "1_F_Watari_2025_SteelSankeys_30Regions",
-    "all_materials": [
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "Sankey(s)_all_materials": [
       "Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper.json"
     ]
   },
   "501": {
     "name": "1_F_Sand_Gravel_MFA_Global_184Countries_ZHUANG_2025",
-    "all_materials": [
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "Sankey(s)_all_materials": [
       "Sand_Gravel_Global_ZHUANG_2025_Sankey_as_in_Paper.json"
     ]
   },
   "555": {
     "name": "1_F_RECC_CE_EU_UK_2060_HAUENSTEIN_2026",
+    "Sankey_comment": "This IEDC dataset has material-specific Sankey configs linked to it - these Sankeys only work for specific materials as indicated below.",    
     "steel": [
       "RECC_CE_Steel.json"
     ],
