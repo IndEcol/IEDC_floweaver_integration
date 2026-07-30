@@ -1,0 +1,41 @@
+{
+  "China_Sand_Gravel_REN_Sankey_as_in_Paper.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "China_Sand_Gravel_REN_materials_aggregated.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "Economy_wide_MFA_2005_HAAS_Sankey_as_in_Paper.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "Economy_wide_MFA_2014_MAYER_Sankey_as_in_Paper.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "Sand_Gravel_Global_ZHUANG_2025_Sankey_as_in_Paper.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "RECC_CE_CIRCOMOD_Steel.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+
+  "RECC_CE_CIRCOMOD_Wood.json": {
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id": "6f4cd51"
+  },
+}
