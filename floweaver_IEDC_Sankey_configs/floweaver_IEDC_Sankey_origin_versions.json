@@ -1,40 +1,48 @@
 {
   "China_Sand_Gravel_REN_Sankey_as_in_Paper.json": {
+    "Jupyter notebook origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
   "China_Sand_Gravel_REN_materials_aggregated.json": {
+    "Jupyter notebook origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
   "Economy_wide_MFA_2005_HAAS_Sankey_as_in_Paper.json": {
+    "Jupyter notebook origin": "1_F_Economy_wide_MFA_Global_EU27_2005_HAAS.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
   "Economy_wide_MFA_2014_MAYER_Sankey_as_in_Paper.json": {
+    "Jupyter notebook origin": "1_F_Economy_wide_MFA_EU28_2014_MAYER.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
   "Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper.json": {
+    "Jupyter notebook origin": "1_F_Watari_2025_SteelSankeys_30Regions.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "Sand_Gravel_Global_ZHUANG_2025_Sankey_as_in_Paper.json": {
+  "1_F_Sand_Gravel_MFA_Global_184Countries_ZHUANG_2025.json": {
+    "Jupyter notebook origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
   "RECC_CE_CIRCOMOD_Steel.json": {
+    "Jupyter notebook origin": "tdb.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
   "RECC_CE_CIRCOMOD_Wood.json": {
+    "Jupyter notebook origin": "tdb.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
