@@ -1,5 +1,5 @@
 # IEDC_floweaver_integration
-GitHub repo to document and archive [floweaver Sankey configurations[(https://floweaver.readthedocs.io/en/latest/index.html) that work with [industrial ecology data commons (IEDC)](https://www.database.industrialecology.uni-freiburg.de/) datasets
+GitHub repo to document and archive [floweaver Sankey configurations](https://floweaver.readthedocs.io/en/latest/index.html) that work with [industrial ecology data commons (IEDC)](https://www.database.industrialecology.uni-freiburg.de/) datasets
 
 This repository documents the elements of the workflow to establish an IEDC-Sankey link for a given flow dataset.
 
