@@ -1,9 +1,11 @@
 # IEDC_floweaver_integration
 GitHub repo to document and archive [floweaver Sankey configurations](https://floweaver.readthedocs.io/en/latest/index.html) that work with [industrial ecology data commons (IEDC)](https://www.database.industrialecology.uni-freiburg.de/) datasets
 
-This repository documents the elements of the workflow to establish an IEDC-Sankey link for a given flow dataset.
+This repository documents the elements of the workflow to establish an IEDC-Sankey link for a given flow dataset from the IEDC. The development goal for 2026 is to set up the infrastructure (web app and supporting services) as well as a fully traceable workflow to generate Sankeys from and link them to their underlying datasets (see example figure):
 
-The IEDC-floweaver integration (offline version and on the web server) is documented in the IEDC handbook, which will be published in the summer of 2026 via [https://www.database.industrialecology.uni-freiburg.de/](  https://www.database.industrialecology.uni-freiburg.de/)
+<img width="1410" height="778" alt="IEDC_floweaver_end_result_traceable" src="https://github.com/user-attachments/assets/698cba83-1caf-466a-b8a0-1c4fb34cb073" />
+
+The IEDC-floweaver integration (offline version and on the web server) is documented in the IEDC handbook, which is currently in internal review and will be published in the summer of 2026 via [https://www.database.industrialecology.uni-freiburg.de/](  https://www.database.industrialecology.uni-freiburg.de/)
 
 In the meantime, the following preliminary documenantation is available:
 
@@ -16,10 +18,10 @@ In the meantime, the following preliminary documenantation is available:
     - Optional: Create several Sankey versions for the same dataset
 
 **„Online“ part:**
-- List all Sankey configurations in the SANKEY_LINK__ string (attribute reserve1 on the Cover sheet of the template)
+- Register the Sankey configurations in the [registry file](https://github.com/IndEcol/IEDC_floweaver_integration/blob/main/floweaver_IEDC_Sankey_configs/floweaver_IEDC_Sankey_origin_versions.json)
 - Upload the 1_F template to the IEDC via the IEDC team
-- Convert the .ipynb to .py and the color pallette to .json and compile the floweaver .json configuration (command line)
-- Upload the floweaver .json to the IEDC web server -> The Sankeys can now be generated in the web browser!
+- From the .ipynb, compile and export the floweaver .json configuration and upload the floweaver .json to the IEDC web server
+- Define the link between IEDC dataset and floweaver .json confiiguration in the [link file](https://github.com/IndEcol/IEDC_floweaver_integration/blob/main/floweaver_IEDC_Sankey_configs/floweaver_IEDC_Sankey_links.json) -> The Sankeys can now be generated in the web browser!
 
 **Documentation part:**
 - Switch the material, time, region, etc. labels in the .ipynb so that it works with the xlsx dataset downloaded from the IEDC
