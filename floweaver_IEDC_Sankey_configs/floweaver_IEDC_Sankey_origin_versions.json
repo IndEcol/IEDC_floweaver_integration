@@ -1,47 +1,55 @@
 {
-  "China_Sand_Gravel_REN_Sankey_as_in_Paper.json": {
+  "fss_id_001": {
+    "Sankey_spec_filename": "China_Sand_Gravel_REN_Sankey_as_in_Paper.json",
     "Jupyter notebook origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "China_Sand_Gravel_REN_materials_aggregated.json": {
+  "fss_id_002": {
+    "Sankey_spec_filename": "China_Sand_Gravel_REN_materials_aggregated.json",
     "Jupyter notebook origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "Economy_wide_MFA_2005_HAAS_Sankey_as_in_Paper.json": {
+  "fss_id_003": {
+    "Sankey_spec_filename": "Economy_wide_MFA_2005_HAAS_Sankey_as_in_Paper.json",
     "Jupyter notebook origin": "1_F_Economy_wide_MFA_Global_EU27_2005_HAAS.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "Economy_wide_MFA_2014_MAYER_Sankey_as_in_Paper.json": {
+  "fss_id_004": {
+    "Sankey_spec_filename": "Economy_wide_MFA_2014_MAYER_Sankey_as_in_Paper.json",
     "Jupyter notebook origin": "1_F_Economy_wide_MFA_EU28_2014_MAYER.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper.json": {
+  "fss_id_005": {
+    "Sankey_spec_filename": "Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper.json",
     "Jupyter notebook origin": "1_F_Watari_2025_SteelSankeys_30Regions.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "1_F_Sand_Gravel_MFA_Global_184Countries_ZHUANG_2025.json": {
+  "fss_id_006": {
+    "Sankey_spec_filename": "1_F_Sand_Gravel_MFA_Global_184Countries_ZHUANG_2025.json",
     "Jupyter notebook origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "RECC_CE_CIRCOMOD_Steel.json": {
+  "fss_id_007": {
+    "Sankey_spec_filename": "RECC_CE_CIRCOMOD_Steel.json",
     "Jupyter notebook origin": "tdb.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
   },
 
-  "RECC_CE_CIRCOMOD_Wood.json": {
+  "fss_id_008": {
+    "Sankey_spec_filename": "RECC_CE_CIRCOMOD_Wood.json",
     "Jupyter notebook origin": "tdb.ipynb",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id": "6f4cd51"
