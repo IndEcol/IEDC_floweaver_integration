@@ -3,7 +3,9 @@ GitHub repo to document and archive [floweaver Sankey configurations](https://fl
 
 This repository documents the elements of the workflow to establish an IEDC-Sankey link for a given flow dataset from the IEDC. The development goal for 2026 is to set up the infrastructure (web app and supporting services) as well as a fully traceable workflow to generate Sankeys from and link them to their underlying datasets (see example figure):
 
-<img width="1410" height="778" alt="IEDC_floweaver_end_result_traceable" src="https://github.com/user-attachments/assets/698cba83-1caf-466a-b8a0-1c4fb34cb073" />
+<img width="1405" height="768" alt="IEDC_floweaver_end_result_traceable" src="https://github.com/user-attachments/assets/5617e24a-4c8b-46fc-8c62-3bbb403e5b21" />
+
+
 
 The IEDC-floweaver integration (offline version and on the web server) is documented in the IEDC handbook, which is currently in internal review and will be published in the summer of 2026 via [https://www.database.industrialecology.uni-freiburg.de/](  https://www.database.industrialecology.uni-freiburg.de/)
 
