@@ -7,7 +7,7 @@ This repository documents the elements of the workflow to establish a traceable 
 
 The IEDC-floweaver integration (offline version and on the web server) is documented in the [IEDC handbook:](https://doi.org/10.6094/UNIFR/286224)
 
-**Trace your IEDC-floweaver Sankey: **
+**Trace your IEDC-floweaver Sankey:**
 Each IEDC-floweaver Sankey diagram was created by the IEDC web app by inserting the flow data from an 1_F_xxx dataset into a floweaver Sankey spec file and rendering the result via D3.js. The IEDC dataset id is printed in the traceability statement at the bottom of the figure, and this dataset can be accessed via the [IEDC filtering page](https://www.database.industrialecology.uni-freiburg.de/dataFilter). The traceability statement also contains the floweaver specification id (fss_id), and these ids are defined in the [floweaver IEDC Sankey origin versions config file](https://github.com/IndEcol/IEDC_floweaver_integration/blob/main/floweaver_IEDC_Sankey_configs/floweaver_IEDC_Sankey_origin_versions.json). This config file defines the floweaver specification ids and makes the corresponding .json files traceable by mapping them to the generating Jupyter notebooks and floweaver in their respective versions. Finally, the [IEDC Floweaver spec mapping](https://github.com/IndEcol/IEDC_floweaver_integration/blob/main/floweaver_IEDC_Sankey_configs/floweaver_IEDC_Sankey_links.json) links IEDC datasets to the different floweaver Sankey specifications. This mapping can be material-specific and “many-to-many”, meaning that a Sankey spec can be used for any number of IEDC data sets, and an IEDC data set can be plotted using any number of Floweaver specs.
 
 ## Data and programming workflow, overview. 
