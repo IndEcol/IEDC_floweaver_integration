@@ -4,7 +4,7 @@
     "Jupyter_notebook_origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_002": {
@@ -12,7 +12,7 @@
     "Jupyter_notebook_origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_003": {
@@ -20,7 +20,7 @@
     "Jupyter_notebook_origin": "1_F_Economy_wide_MFA_Global_EU27_2005_HAAS.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_004": {
@@ -28,7 +28,7 @@
     "Jupyter_notebook_origin": "1_F_Economy_wide_MFA_EU28_2014_MAYER.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_005": {
@@ -36,7 +36,7 @@
     "Jupyter_notebook_origin": "1_F_Watari_2025_SteelSankeys_30Regions.ipynb",
     "Jupyter_origin_commit_id": "6beb309",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_006": {
@@ -44,7 +44,7 @@
     "Jupyter_notebook_origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "Jupyter_origin_commit_id": "6beb309",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_007": {
@@ -52,7 +52,7 @@
     "Jupyter_notebook_origin": "tdb.ipynb",
     "Jupyter_origin_commit_id": "tbd",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
   "fss_id_008": {
@@ -60,6 +60,6 @@
     "Jupyter_notebook_origin": "tdb.ipynb",
     "Jupyter_origin_commit_id": "tbd",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 }
