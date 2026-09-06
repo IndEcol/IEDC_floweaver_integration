@@ -40,14 +40,22 @@
     ]
   },
 
-  "iedc_id_555": {
+  "iedc_id_579": {
+    "name": "1_F_Concrete_Materials_Sankey_2018_CAO_2026",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_007"
+    ]
+  },
+
+  "iedc_id_tbd": {
     "name": "1_F_RECC_CE_EU_UK_2060_HAUENSTEIN_2026",
     "Sankey_comment": "This IEDC dataset has material-specific Sankey configs linked to it - these Sankeys only work for specific materials as indicated below.",        
     "steel": [
-      "fss_id_007"
+      "fss_id_tbd"
     ],
     "wood": [
-      "fss_id_008"
+      "fss_id_tbd"
     ]
   }
 }

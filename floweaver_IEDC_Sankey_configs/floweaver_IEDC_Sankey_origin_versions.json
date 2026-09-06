@@ -48,6 +48,14 @@
   },
 
   "fss_id_007": {
+    "Sankey_spec_filename": "Concrete_Materials_2018_CAO_Sankey_as_in_Paper.json",
+    "Jupyter_notebook_origin": "1_F_Concrete_Materials_Sankey_2018_CAO_2026.ipynb",
+    "Jupyter_origin_commit_id": "6beb309",    
+    "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
+    "floweaver_commit_id_or_version_tag": "6f4cd51"
+  },
+
+  "fss_id_tbd": {
     "Sankey_spec_filename": "RECC_CE_CIRCOMOD_Steel.json",
     "Jupyter_notebook_origin": "tdb.ipynb",
     "Jupyter_origin_commit_id": "tbd",    
@@ -55,7 +63,7 @@
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
 
-  "fss_id_008": {
+  "fss_id_tbd": {
     "Sankey_spec_filename": "RECC_CE_CIRCOMOD_Wood.json",
     "Jupyter_notebook_origin": "tdb.ipynb",
     "Jupyter_origin_commit_id": "tbd",    
