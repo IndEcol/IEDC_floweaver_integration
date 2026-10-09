@@ -50,7 +50,7 @@
   "fss_id_007": {
     "Sankey_spec_filename": "1_F_Concrete_Materials_2018_CAO_Sankey_as_in_Paper.json",
     "Jupyter_notebook_origin": "1_F_Concrete_Materials_Sankey_2018_CAO_2026.ipynb",
-    "Jupyter_origin_commit_id": "7413573",    
+    "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
@@ -58,7 +58,7 @@
   "fss_id_008": {
     "Sankey_spec_filename": "1_F_Wood_Waste_Germany_2007_2010_2015_UBA.json",
     "Jupyter_notebook_origin": "1_F_Wood_Waste_Germany_2007_2010_2015_UBA.ipynb",
-    "Jupyter_origin_commit_id": "7413573",    
+    "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
@@ -66,7 +66,7 @@
   "fss_id_009": {
     "Sankey_spec_filename": "1_F_Roundwood_Balance_Germany_2000_2025_Thuenen.json",
     "Jupyter_notebook_origin": "1_F_Roundwood_Balance_Germany_2000_2025_Thuenen.ipynb",
-    "Jupyter_origin_commit_id": "7413573",    
+    "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
@@ -74,7 +74,7 @@
   "fss_id_010": {
     "Sankey_spec_filename": "1_F_paper_pulp_EU_2012_2021_JRC.json",
     "Jupyter_notebook_origin": "1_F_paper_pulp_EU_2012_2021_JRC.ipynb",
-    "Jupyter_origin_commit_id": "7413573",    
+    "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
@@ -82,7 +82,7 @@
   "fss_id_011": {
     "Sankey_spec_filename": "1_F_woody_biomass_EU_2012_2021_JRC.json",
     "Jupyter_notebook_origin": "1_F_woody_biomass_EU_2012_2021_JRC.ipynb",
-    "Jupyter_origin_commit_id": "7413573",    
+    "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
@@ -90,7 +90,7 @@
   "fss_id_012": {
     "Sankey_spec_filename": "1_F_Wood_Products_Germany_2019_Szichta.json",
     "Jupyter_notebook_origin": "1_F_Wood_Products_Germany_2019_Szichta.ipynb",
-    "Jupyter_origin_commit_id": "7413573",    
+    "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
