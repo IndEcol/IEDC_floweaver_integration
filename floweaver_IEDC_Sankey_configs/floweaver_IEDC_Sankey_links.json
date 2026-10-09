@@ -48,6 +48,46 @@
     ]
   },
 
+  "iedc_id_583": {
+    "name": "1_F_Wood_Waste_Germany_2007_2010_2015_UBA",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_008"
+    ]
+  },
+
+  "iedc_id_tbd": {
+    "name": "1_F_Roundwood_Balance_Germany_2000_2025_Thuenen",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_009"
+    ]
+  },
+
+  "iedc_id_tbd": {
+    "name": "1_F_paper_pulp_EU_2012_2021_JRC",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_010"
+    ]
+  },
+
+  "iedc_id_tbd": {
+    "name": "1_F_woody_biomass_EU_2012_2021_JRC",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_011"
+    ]
+  },
+
+  "iedc_id_tbd": {
+    "name": "1_F_Wood_Products_Germany_2019_Szichta",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_012"
+    ]
+  },
+
   "iedc_id_tbd": {
     "name": "1_F_RECC_CE_EU_UK_2060_HAUENSTEIN_2026",
     "Sankey_comment": "This IEDC dataset has material-specific Sankey configs linked to it - these Sankeys only work for specific materials as indicated below.",        
