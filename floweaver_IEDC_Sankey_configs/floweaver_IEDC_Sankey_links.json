@@ -56,11 +56,27 @@
     ]
   },
 
-  "iedc_id_tbd": {
+  "iedc_id_590": {
     "name": "1_F_Roundwood_Balance_Germany_2000_2025_Thuenen",
     "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
     "all_materials": [
       "fss_id_009"
+    ]
+  },
+
+  "iedc_id_591": {
+    "name": "1_F_Wood_Products_Balance_Germany_1950_2025_Thuenen",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_013"
+    ]
+  },
+
+  "iedc_id_592": {
+    "name": "1_F_Wood_Products_Trade_Balance_Germany_1996_2025_Thuenen",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_014"
     ]
   },
 
