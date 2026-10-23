@@ -80,7 +80,7 @@
     ]
   },
 
-  "iedc_id_tbd": {
+  "iedc_id_600": {
     "name": "1_F_paper_pulp_EU_2012_2021_JRC",
     "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
     "all_materials": [
