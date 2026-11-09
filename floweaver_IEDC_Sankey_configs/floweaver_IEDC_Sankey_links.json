@@ -96,7 +96,7 @@
     ]
   },
 
-  "iedc_id_tbd": {
+  "iedc_id_589": {
     "name": "1_F_Wood_Products_Germany_2019_Szichta",
     "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
     "all_materials": [

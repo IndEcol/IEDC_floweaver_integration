@@ -74,7 +74,7 @@
   "fss_id_010": {
     "Sankey_spec_filename": "1_F_paper_pulp_EU_2012_2021_JRC.json",
     "Jupyter_notebook_origin": "1_F_paper_pulp_EU_2012_2021_JRC.ipynb",
-    "Jupyter_origin_commit_id": "511f18d",    
+    "Jupyter_origin_commit_id": "46df09e",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
     "floweaver_commit_id_or_version_tag": "6f4cd51"
   },
@@ -92,7 +92,7 @@
     "Jupyter_notebook_origin": "1_F_Wood_Products_Germany_2019_Szichta.ipynb",
     "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id_or_version_tag": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "64bd85"
   },
 
   "fss_id_013": {
