@@ -1,6 +1,9 @@
 {
   "fss_id_001": {
     "Sankey_spec_filename": "China_Sand_Gravel_REN_Sankey_as_in_Paper.json",
+    "size_width": 900,
+    "size_height": 400,
+    "scale": 7,
     "Jupyter_notebook_origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -9,6 +12,9 @@
 
   "fss_id_002": {
     "Sankey_spec_filename": "China_Sand_Gravel_REN_materials_aggregated.json",
+    "size_width": 900,
+    "size_height": 400,
+    "scale": 7,
     "Jupyter_notebook_origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -17,6 +23,9 @@
 
   "fss_id_003": {
     "Sankey_spec_filename": "Economy_wide_MFA_2005_HAAS_Sankey_as_in_Paper.json",
+    "size_width": 900,
+    "size_height": 400,
+    "scale": 2,
     "Jupyter_notebook_origin": "1_F_Economy_wide_MFA_Global_EU27_2005_HAAS.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -25,6 +34,9 @@
 
   "fss_id_004": {
     "Sankey_spec_filename": "Economy_wide_MFA_2014_MAYER_Sankey_as_in_Paper.json",
+    "size_width": 900,
+    "size_height": 400,
+    "scale": 2,
     "Jupyter_notebook_origin": "1_F_Economy_wide_MFA_EU28_2014_MAYER.ipynb",
     "Jupyter_origin_commit_id": "6beb309",
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -33,6 +45,9 @@
 
   "fss_id_005": {
     "Sankey_spec_filename": "Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper.json",
+    "size_width": 1100,
+    "size_height": 400,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_Watari_2025_SteelSankeys_30Regions.ipynb",
     "Jupyter_origin_commit_id": "6beb309",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -41,6 +56,9 @@
 
   "fss_id_006": {
     "Sankey_spec_filename": "1_F_Sand_Gravel_MFA_Global_184Countries_ZHUANG_2025.json",
+    "size_width": 900,
+    "size_height": 400,
+    "scale": 6,
     "Jupyter_notebook_origin": "1_F_China_Sand_Gravel_MFA_2050_Scenario_REN.ipynb",
     "Jupyter_origin_commit_id": "6beb309",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -49,6 +67,9 @@
 
   "fss_id_007": {
     "Sankey_spec_filename": "1_F_Concrete_Materials_2018_CAO_Sankey_as_in_Paper.json",
+    "size_width": 1100,
+    "size_height": 400,
+    "scale": 3.5,
     "Jupyter_notebook_origin": "1_F_Concrete_Materials_Sankey_2018_CAO_2026.ipynb",
     "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -57,6 +78,9 @@
 
   "fss_id_008": {
     "Sankey_spec_filename": "1_F_Wood_Waste_Germany_2007_2010_2015_UBA.json",
+    "size_width": 1300,
+    "size_height": 350,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_Wood_Waste_Germany_2007_2010_2015_UBA.ipynb",
     "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -65,6 +89,9 @@
 
   "fss_id_009": {
     "Sankey_spec_filename": "1_F_Roundwood_Balance_Germany_2000_2025_Thuenen.json",
+    "size_width": 600,
+    "size_height": 200,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_Roundwood_Balance_Germany_2000_2025_Thuenen.ipynb",
     "Jupyter_origin_commit_id": "70448d9",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -73,6 +100,9 @@
 
   "fss_id_010": {
     "Sankey_spec_filename": "1_F_paper_pulp_EU_2012_2021_JRC.json",
+    "size_width": 1400,
+    "size_height": 400,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_paper_pulp_EU_2012_2021_JRC.ipynb",
     "Jupyter_origin_commit_id": "46df09e",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -81,6 +111,9 @@
 
   "fss_id_011": {
     "Sankey_spec_filename": "1_F_woody_biomass_EU_2012_2021_JRC.json",
+    "size_width": 1100,
+    "size_height": 600,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_woody_biomass_EU_2012_2021_JRC.ipynb",
     "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -89,6 +122,9 @@
 
   "fss_id_012": {
     "Sankey_spec_filename": "1_F_Wood_Products_Germany_2019_Szichta.json",
+    "size_width": 1400,
+    "size_height": 400,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_Wood_Products_Germany_2019_Szichta.ipynb",
     "Jupyter_origin_commit_id": "511f18d",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -97,6 +133,9 @@
 
   "fss_id_013": {
     "Sankey_spec_filename": "1_F_Wood_Products_Balance_Germany_1950_2025_Thuenen.json",
+    "size_width": 1200,
+    "size_height": 300,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_Wood_Products_Balance_Germany_1950_2025_Thuenen.ipynb",
     "Jupyter_origin_commit_id": "70448d9",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -105,6 +144,9 @@
 
   "fss_id_014": {
     "Sankey_spec_filename": "1_F_Wood_Products_Trade_Balance_Germany_1996_2025_Thuenen.json",
+    "size_width": 1000,
+    "size_height": 200,
+    "scale": 10,
     "Jupyter_notebook_origin": "1_F_Wood_Products_Trade_Balance_Germany_1996_2025_Thuenen.ipynb",
     "Jupyter_origin_commit_id": "70448d9",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
@@ -113,17 +155,23 @@
 
   "fss_id_tbd": {
     "Sankey_spec_filename": "RECC_CE_CIRCOMOD_Steel.json",
+    "size_width": 1100,
+    "size_height": 400,
+    "scale": 100,
     "Jupyter_notebook_origin": "tdb.ipynb",
     "Jupyter_origin_commit_id": "tbd",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id_or_version_tag": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "64bd85"
   },
 
   "fss_id_tbd": {
     "Sankey_spec_filename": "RECC_CE_CIRCOMOD_Wood.json",
+    "size_width": 1100,
+    "size_height": 400,
+    "scale": 100,
     "Jupyter_notebook_origin": "tdb.ipynb",
     "Jupyter_origin_commit_id": "tbd",    
     "floweaver_repo_URL": "https://github.com/ricklupton/floweaver",
-    "floweaver_commit_id_or_version_tag": "6f4cd51"
+    "floweaver_commit_id_or_version_tag": "64bd85"
   },
 }
