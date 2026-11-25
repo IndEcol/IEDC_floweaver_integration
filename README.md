@@ -32,6 +32,19 @@ Archive the Python code, register a new floweaver .json configuration, and defin
 - Switch the material, time, region, etc. labels in the .ipynb so that it works with the xlsx dataset downloaded from the IEDC. (change of column labels needed, see examples)
 - Copy the modified .ipynb to the IEDC-floweaver GitHub repo, commit. The Sankey configs are now available for public use, and can be modified by the users.
 
+**Naming convention and scaling info**
+Each floweaver Definition ipynb notebook should start with the following:
+# Define the Sankey version, which will be the name of the .json spec file. 
+# Default: Sankey version = IEDC template filename without 1_F_ and without .xlxs, first character always is a capital letter
+For example: 
+Sankey_version = 'Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper'
+
+# Specify canvas size and scale (thickness) of the flows:
+size = dict(width=1100, height=400)
+SCALE = 0.003
+
+the size and SCALE properties are currently not part of the .json and are recorded separately in the floweaver_IEDC_Sankey_origin_versions.json config file.
+
 ## Background 
 
 Sankey diagrams are a data visualisation technique that shows a system of flows from one process to another, in which the width of the arrows is proportional to the flow rate of the depicted extensive property.  They are an important visualisation technique for MFA systems and widely applied in our community. Among the different software tools that are available for creating Sankey diagrams from MFA datasets,  the floweaver Sankey generator package  sticks out because 
