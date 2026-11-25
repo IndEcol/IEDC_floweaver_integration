@@ -88,7 +88,7 @@
     ]
   },
 
-  "iedc_id_tbd": {
+  "iedc_id_603": {
     "name": "1_F_woody_biomass_EU_2012_2021_JRC",
     "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
     "all_materials": [
@@ -104,14 +104,22 @@
     ]
   },
 
+  "iedc_id_604": {
+    "name": "1_F_Global_Material_Flows_ewMFA_Schandl_2020",
+    "Sankey_comment": "This IEDC dataset has one single Sankey config linked to it - this Sankey works for all materials in this dataset.",    
+    "all_materials": [
+      "fss_id_015"
+    ]
+  },
+
   "iedc_id_tbd": {
-    "name": "1_F_RECC_CE_EU_UK_2060_HAUENSTEIN_2026",
+    "name": "1_F_Material_Sankey_CIRCOMOD_EU_all_countries_all_sectors_2020_50_60",
     "Sankey_comment": "This IEDC dataset has material-specific Sankey configs linked to it - these Sankeys only work for specific materials as indicated below.",        
     "steel": [
-      "fss_id_tbd"
+      "fss_id_016"
     ],
-    "wood": [
-      "fss_id_tbd"
+    "cement": [
+      "fss_id_017"
     ]
   }
 }
