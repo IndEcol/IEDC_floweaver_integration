@@ -34,12 +34,12 @@ Archive the Python code, register a new floweaver .json configuration, and defin
 
 **Naming convention and scaling info**
 Each floweaver Definition ipynb notebook should start with the following:
-# Define the Sankey version, which will be the name of the .json spec file. 
-# Default: Sankey version = IEDC template filename without 1_F_ and without .xlxs, first character always is a capital letter
+Define the Sankey version, which will be the name of the .json spec file. 
+Default: Sankey version = IEDC template filename without 1_F_ and without .xlxs, first character always is a capital letter
 For example: 
 Sankey_version = 'Watari_2025_SteelSankeys_30Regions_Sankey_as_in_Paper'
 
-# Specify canvas size and scale (thickness) of the flows:
+Specify canvas size and scale (thickness) of the flows:
 size = dict(width=1100, height=400)
 SCALE = 0.003
 
